@@ -1,0 +1,8 @@
+{
+  "name": "Gravita",
+  "description": "Gravita: Plataforma comunitaria para orbitar en torno a planes compartidos, conectando personas y comercios en Málaga con un sistema gamificado de Kronos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
